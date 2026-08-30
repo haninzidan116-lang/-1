@@ -1361,7 +1361,7 @@ button {
 
 /* ضبط الخط القرآني والنصوص داخل الكرت لئلا تخرج عن الإطار */
 #quranText, .quran-text {
-    width: 50% !important;
+    width: 75% !important;
     font-size: clamp(16px, 4vw, 24px) !important;
     line-height: 1.8 !important;
     word-break: break-word !important;
